@@ -86,4 +86,6 @@ For additional information or questions about this analysis, feel free to reach 
   
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+The dataset used in this project is licensed under the **CC0 1.0 Universal (CC0 1.0)** Public Domain Dedication. You can view the license details [here](https://creativecommons.org/publicdomain/zero/1.0/).
+
+All other project content and code are used for educational purposes as part of the **AI 570 Deep Learning** course at Penn State University.
